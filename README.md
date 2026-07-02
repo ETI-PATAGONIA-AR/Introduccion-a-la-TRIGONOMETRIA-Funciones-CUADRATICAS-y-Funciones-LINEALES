@@ -10,6 +10,10 @@ Les hice una simple aplicacion para que puedan graficar funciones y ver algunos 
 
 <img width="1365" height="720" alt="App_GRAFICADORA_2" src="https://github.com/user-attachments/assets/034697c0-e071-4080-aa7a-59cb434bfd8c" />
 
+Un pequeño video para que lo vean:
+
+https://github.com/user-attachments/assets/b8464b8c-c582-401b-bc6d-8acbc50a22c6
+
 ---
 
 ## 1. Introducción: antes de arrancar
